@@ -25,5 +25,5 @@ This project analyzes coffee sales data using Excel tools like pivot tables, cha
 Made with ❤️ by **Usha-Bharadwaj**  
 📧 Email: usha24389@gmail.com  
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/yogesh-mishra/coffee-dashboard/main/dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/usha-bharadwaj/Coffie-shop-analysis/blob/main/DashBoard-img.png)
 
